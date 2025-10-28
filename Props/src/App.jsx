@@ -1,11 +1,11 @@
 
 import './App.css'
-import Object from "./assets/components/Object";
-import Array from "./assets/components/Array";
-import Button from "./assets/components/Button";
-import Card from "./assets/components/Card";
-import Parent from "./assets/components/Parent";
-import Default from './assets/components/Default';
+import Object from "./components/Object";
+import Array from "./components/Array";
+import Button from "./components/Button";
+import Card from "./components/Card";
+import Parent from "./components/Parent";
+import Default from './components/Default';
 
 function App() {
   
