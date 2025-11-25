@@ -51,7 +51,7 @@ const RadioGrouped = () => {
 
   return (
     <>
-      <div className="flex  justify-center gap-3 items-center select-none h-[10rem]">
+      <div className="flex  justify-center gap-3 items-center select-none h-40">
         {payments.map((method, index) => (
        
           <label key={index} htmlFor={method.id}>
