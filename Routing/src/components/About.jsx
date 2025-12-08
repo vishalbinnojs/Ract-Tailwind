@@ -5,8 +5,11 @@ const About = () => {
     <>
   <div className="page">
     <h1>About</h1>
-  <Outlet />
     </div>
+  <Outlet />
+   
+
+
     </>
   )
 };
