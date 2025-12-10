@@ -8,7 +8,7 @@ const isLoggedIn = true;
   const handleClick = () =>{
     // programmatic logic here to navigate to a page
 if(isLoggedIn) navigate('/services')
-  // if user logged in then we are navigating to services page on Clicking the button. We can navigate to the services even if we don't create the route for services page
+  // if user logged in then we are navigating to services page on Clicking the button.
 }
   return (
     <>
